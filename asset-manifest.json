@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/FirebaseExpenseTracker/static/css/main.4f409f97.css",
+    "main.js": "/FirebaseExpenseTracker/static/js/main.b2de101d.js",
+    "index.html": "/FirebaseExpenseTracker/index.html",
+    "main.4f409f97.css.map": "/FirebaseExpenseTracker/static/css/main.4f409f97.css.map",
+    "main.b2de101d.js.map": "/FirebaseExpenseTracker/static/js/main.b2de101d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f409f97.css",
+    "static/js/main.b2de101d.js"
+  ]
+}
